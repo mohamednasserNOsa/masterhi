@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
              ElevatedButton(onPressed: (){},child: Text(
-              'My Name Is mohamed :'),
+              'My Name Is mahmoud :'),
             ),
             Text(
               '$_counter',
